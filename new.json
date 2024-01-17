@@ -1,0 +1,23 @@
+{
+  "value": [
+    {
+      "id": "file_id_1",
+      "name": "example_file_1.txt",
+      "size": 1024,  // Size of the file in bytes
+      "createdDateTime": "2022-01-18T10:30:00Z",
+      "lastModifiedDateTime": "2022-01-18T11:15:00Z",
+      "fileType": "text/plain",
+      "webUrl": "https://onedrive.live.com/redir?resid=file_id_1"
+    },
+    {
+      "id": "file_id_2",
+      "name": "example_file_2.jpg",
+      "size": 2048,
+      "createdDateTime": "2022-01-18T09:45:00Z",
+      "lastModifiedDateTime": "2022-01-18T10:20:00Z",
+      "fileType": "image/jpeg",
+      "webUrl": "https://onedrive.live.com/redir?resid=file_id_2"
+    },
+    // Additional files...
+  ]
+}
