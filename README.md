@@ -1,2 +1,2 @@
-Hello, I'm uzayr tanweer, currently in my third semester at SRM College.
-Passionate about coding and Android development, I find joy in crafting innovative solutions and exploring the endless possibilities within the digital realm. My journey involves unraveling the intricacies of programming languages and delving into the dynamic world of app development, driven by a desire to create impactful and user-friendly experiences.
+Hello, I'm uzayr tanweer, currently in my third year at SRM College.
+Passionate about coding and hardware development, I find joy in crafting innovative solutions and exploring the endless possibilities within the digital realm. My journey involves unraveling the intricacies of programming languages and delving into the dynamic world of app development, driven by a desire to create impactful and user-friendly experiences.
